@@ -1,0 +1,1 @@
+export const GOOGLE_AUTH8BASE_URL = "https://api.auth.google.com";
